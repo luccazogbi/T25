@@ -1,0 +1,3 @@
+Here we developed a system inside GNU Radio where we multiply, add and subtract two signal (cos and sen). Furthermore, we'll need to deliver a report on 13/08
+talking about the concepts involved in the results obtained.
+
